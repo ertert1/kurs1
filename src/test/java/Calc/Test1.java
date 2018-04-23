@@ -22,6 +22,6 @@ class Test1 {
 
     @Test
     void getP() {
-        assertEquals("47.25",testingClass.getP(12, 16, 45, 5.6));
+        assertEquals("49.25",testingClass.getP(12, 16, 45, 5.6));
           }
 } 
